@@ -22,3 +22,6 @@ from your keyboard to see the next detected object. Do this until it stops detec
 
 * For perfect accurate measurement images should be top-down view on objects.
 * Background of images should be plain so the algorithm won't have problems while detecting contours.
+
+Here is a working example:
+![Alt Text](https://github.com/shohrukhdadakhon/GUI-for-Measuring-Objects-in-the-Image/blob/master/ObjectDetection.gif)
