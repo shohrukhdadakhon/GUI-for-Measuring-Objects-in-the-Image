@@ -2,6 +2,8 @@
 
 OBJECT SIZE MEASUREMENT FROM AN IMAGE USING A REFERENCE IMAGE ON A PLAIN BACKGROUND
 
+Inspired by Adrian Rosebrock's project: https://pyimagesearch.com/2016/03/28/measuring-size-of-objects-in-an-image-with-opencv/
+
 HOW TO USE THE GUI:
 
 1. Run the GUI: Run the main.py inside the "codes" file.
